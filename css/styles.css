@@ -1,0 +1,15 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.para{
+	background-image:url("../images/images.jpeg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+    color:red;
+	background-image:url("https://cdnb.artstation.com/p/assets/images/images/054/353/835/large/kumaran-handy-dioeye-tropical-jungle-pond-painting-by-ivan-shishkin-photoreal-ee1d1011-cb73-4bd6-a25e-dd1527bf7cf8.jpg?1664350822");
+    width:auto;
+	height:1100px;
+}
+
